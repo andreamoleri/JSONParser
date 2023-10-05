@@ -1,5 +1,5 @@
 # JSONParser
-A University Project made in Prolog and LISP
+A University Project made in both Prolog and LISP
 
 Program Features
 ----------------------------------------
