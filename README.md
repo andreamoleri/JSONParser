@@ -1,7 +1,7 @@
 # JSONParser
 
 ## Project Overview
-JSONParser is a versatile solution for parsing and manipulating JSON data in two distinct programming languages: Prolog and Lisp. The project's primary objective is to provide the functionality required to work with JSON data efficiently. It supports parsing JSON strings, reading and writing JSON files, constructing data structures that represent JSON objects, retrieving specific values from JSON objects, and handling incorrect JSON syntax.
+JSONParser is a versatile solution for parsing and manipulating JSON data written in two distinct programming paradigms: Prolog and Lisp. The project's primary objective is to provide the functionality required to work with JSON data efficiently. It supports parsing JSON strings, reading and writing JSON files, constructing data structures that represent JSON objects, retrieving specific values from JSON objects, and handling incorrect JSON syntax.
 
 ## Program Features
 JSONParser offers the following key features:
